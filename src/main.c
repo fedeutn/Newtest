@@ -5,6 +5,10 @@
  *      Author: PELA
  */
 
+
+
+#include "algo.h"
+
 int main(void)
 {
 	int primera = 0;
