@@ -8,6 +8,7 @@
 int main(void)
 {
 	int primera = 0;
+	int segunda = 1;
 	return 0;
 }
 
