@@ -9,7 +9,11 @@ int main(void)
 {
 	//hola
 	int primera = 0;
+<<<<<<< HEAD
 	int segunda = 32;
+=======
+	int segunda = 1;
+>>>>>>> branch 'master' of https://github.com/fedeutn/Newtest.git
 	return 0;
 }
 
