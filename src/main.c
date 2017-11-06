@@ -7,6 +7,7 @@
 
 int main(void)
 {
+	//hola
 	int primera = 0;
 	int segunda = 32;
 	return 0;
